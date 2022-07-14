@@ -10,7 +10,7 @@ a record (not deleted)
 Run `yarn` for downloading all the required dependencies.
 Run `yarn run build` to build the project.
 Run `yarn run start:dev` to start the development server.
- Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+ Navigate to `http://localhost:5000/`. The app will automatically reload if you change any of the source files.
 
 ## Used Technologies
   NodeJs, TypeScript, Express, MongoDB.
